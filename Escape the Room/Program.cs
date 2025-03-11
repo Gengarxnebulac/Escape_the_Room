@@ -259,5 +259,4 @@ class Program
         Console.SetCursorPosition(105, 24);
         Console.ReadKey(true);
     }
-    }
 }
